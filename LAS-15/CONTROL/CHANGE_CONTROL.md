@@ -51,3 +51,4 @@ production:
 | Date | Change | Approved by | Evidence | Validation |
 |---|---|---|---|---|
 | 2026-09-26 | Research repository foundation created (documentation, schema, research data model, tests). No production change. | GPT/user (foundation-build task) | n/a | n/a |
+| 2026-09-26 | Added research-only module `research/early_rebreak/` (EARLY_REBREAK_RESEARCH_v0.1: protocol, status, data model, tests). No change to A+, A-Early, production Pine, alerts or any frozen definition. Enrollment not authorized. | GPT/user (rebreak research-design task) | n/a | n/a (research model tests only) |

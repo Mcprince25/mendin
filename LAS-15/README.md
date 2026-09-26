@@ -45,6 +45,7 @@ BTC CONTEXT
 | `research/liquidity_sweeps/` | Liquidity-sweep research |
 | `research/pullback_hypothesis/` | 24H pullback × sell-side sweep hypothesis (draft protocol only) |
 | `research/a_early/` | A-Early (experimental) research |
+| `research/early_rebreak/` | CRT/rebreak early-entry experiment (EXPERIMENTAL, research only, enrollment not authorized) |
 | `research/observations/` | Free-form observations |
 | `data/` | Research data (`raw/`, `processed/`) — no fabricated data |
 | `tests/` | Tests for the **research data model only** (not Pine regression tests) |
